@@ -10,3 +10,7 @@
 - C++:                [STL containers rewrite](https://github.com/vesord/containers) and [IRC server](https://github.com/zkerriga/irc-server)
 - System programming: [Shell](https://github.com/zkerriga/littleshell)
 - Microcontrollers:   [Thermoindicator on ATMega8](https://github.com/vesord/Thermoindication-Atmega8)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vesord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
