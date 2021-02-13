@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, it's Vitalii! 👋
 
-<!--
-**vesord/vesord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### What I'm doing now?
 
-
-  
--->
-:fireworks:
-
-
-- 🔭 I’m currently working on https://github.com/zkerriga/irc-server 
+- 🔭 I’m currently working on [IRC server](https://github.com/zkerriga/irc-server) 
 - 🌱 I’m currently learning C++
+- :flashlight: I'm currently looking for a job in **graphics** (junior/internship)
 
-- 📫 How to reach me:
-  t.me/Ev_vit
+#### Most stack related projects
+
+- Graphics:           [Raycaster on plain C](https://github.com/vesord/raycaster)
+
+- C++:                [STL containers rewrite](https://github.com/vesord/containers) and [IRC server](https://github.com/zkerriga/irc-server)
+
+- System programming: [Shell](https://github.com/zkerriga/littleshell)
+
+- Microcontrollers:   [Thermoindicator on ATMega8](https://github.com/vesord/Thermoindication-Atmega8)
+
+#### Contacts
+
+- 📫 vitalii.evstratov@gmail.com
+- :calling: t.me/Ev_vit
