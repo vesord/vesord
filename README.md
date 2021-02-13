@@ -1,7 +1,5 @@
 ### Hi there, it's Vitalii! 👋
 
-#### What I'm doing now?
-
 - 🔭 I’m currently working on [IRC server](https://github.com/zkerriga/irc-server) 
 - 🌱 I’m currently learning C++
 - :flashlight: I'm currently looking for a job in **graphics** (junior/internship)
