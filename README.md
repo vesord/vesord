@@ -1,7 +1,7 @@
 ### Most stack related projects :computer:
 
-- :space_invader: Graphics:           [Raycaster on plain C](https://github.com/vesord/raycaster)
-- :heavy_plus_sign: C++:                [STL containers rewrite](https://github.com/vesord/containers) and [IRC server](https://github.com/zkerriga/irc-server)
+- :space_invader: Graphics:           [3D-snake](https://github.com/vesord/SpaceSnake), [walker](https://github.com/vesord/raycaster)
+- :heavy_plus_sign: C++:                [STL rewrite](https://github.com/vesord/containers), [IRC server](https://github.com/zkerriga/irc-server)
 - :wrench: System programming: [Shell](https://github.com/zkerriga/littleshell)
 
 #### What I'm doing now
