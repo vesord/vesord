@@ -1,4 +1,4 @@
-### Most stack related projects :computer:
+### Most related projects :computer:
 
 - :space_invader: Graphics:           [3D-snake](https://github.com/vesord/SpaceSnake), [walker](https://github.com/vesord/raycaster)
 - :heavy_plus_sign: C++:                [STL rewrite](https://github.com/vesord/containers), [IRC server](https://github.com/zkerriga/irc-server)
