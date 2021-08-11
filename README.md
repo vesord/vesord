@@ -5,9 +5,9 @@
 - :wrench: System programming: [Shell](https://github.com/zkerriga/littleshell)
 
 #### What I'm doing now
-- 🔭 I’m currently working on final qualifying work in my uni
+- 🔭 I’m currently working on my Ecole42 studies
 - 🌱 I’m currently learning C++
-- :flashlight: I'm currently looking for a job on C++ (junior/internship)
+- :flashlight: I'm currently looking for a job on C/C++
 
 
 
