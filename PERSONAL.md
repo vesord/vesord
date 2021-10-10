@@ -1,5 +1,7 @@
 # Vitalii Evstratov - Computer Graphics Programmer.
 
+<img src="https://github.com/vesord/HeavyStuffForOtherRepos/blob/master/my_photo.jpg" width="267" height="200" />
+
 ## OVERVIEW
 
 Experienced in **OpenGL**, **GLSL**, low level programming.
@@ -29,9 +31,9 @@ Final qualifying work: Microcontroller system for recording geoacoustic emission
 
 [Repo](https://github.com/vesord/water_cellar_automaton)
 
-// TODO: add gif here
+<img src="" width="200" height="200" />
 
-No-engine, OpenGL, Rust, CPU, Gridding algorithms, celluar automatons.
+*No-engine*, OpenGL, Rust, CPU, Gridding algorithms, celluar automatons.
 
 Main goal: make surface around points provided by user and then approximately simulate water behavior on it.
 
@@ -41,7 +43,7 @@ Main goal: make surface around points provided by user and then approximately si
 
 <img src="https://github.com/vesord/HeavyStuffForOtherRepos/blob/master/obj_viewer/agalia.gif" width="200" height="200" />
 
-No-engine, OpenGL, C, triangulation algorithms.
+*No-engine*, OpenGL, C, triangulation algorithms.
 
 Main goal: represent 3D objects defined by .obj file.
 
