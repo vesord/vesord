@@ -33,7 +33,7 @@ Final qualifying work: Microcontroller system for recording geoacoustic emission
 
 <img src="" width="200" height="200" />
 
-*No-engine*, OpenGL, Rust, CPU, Gridding algorithms, celluar automatons.
+No-engine, OpenGL, Rust, CPU, Gridding algorithms, celluar automatons.
 
 Main goal: make surface around points provided by user and then approximately simulate water behavior on it.
 
@@ -43,7 +43,7 @@ Main goal: make surface around points provided by user and then approximately si
 
 <img src="https://github.com/vesord/HeavyStuffForOtherRepos/blob/master/obj_viewer/agalia.gif" width="200" height="200" />
 
-*No-engine*, OpenGL, C, triangulation algorithms.
+No-engine, OpenGL, C, triangulation algorithms.
 
 Main goal: represent 3D objects defined by .obj file.
 
