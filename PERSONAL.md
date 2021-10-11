@@ -12,7 +12,7 @@ Most used languages in (no-engine) projects: **C**, **C++**, **Rust**.
 
 Ecole 42 (in Russia "21 School") student.
 
-Familiar with: **linear algebra**, **multithreading**, git, docker, network-programming, web-programming, bash.
+Familiar with: **linear algebra**, **multithreading**, git, docker, network-programming, web-programming, bash, make, CMake.
 
 [Portfolio](https://github.com/vesord)
 
