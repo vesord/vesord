@@ -31,7 +31,7 @@ Final qualifying work: Microcontroller system for recording geoacoustic emission
 
 [Repo](https://github.com/vesord/water_cellar_automaton)
 
-<img src="" width="200" height="200" />
+<img src="https://github.com/vesord/HeavyStuffForOtherRepos/blob/master/water_cellular_automaton/water_rain_mac.gif" width="270" height="200" />
 
 No-engine, OpenGL, Rust, CPU, Gridding algorithms, celluar automatons.
 
@@ -46,6 +46,16 @@ Main goal: make surface around points provided by user and then approximately si
 No-engine, OpenGL, C, triangulation algorithms.
 
 Main goal: represent 3D objects defined by .obj file.
+
+### Space snake
+
+[Repo](https://github.com/vesord/SpaceSnake)
+
+No-engine, old OpenGL, C, gamedev.
+
+Main goal: make snake in 3D
+
+<img src="https://github.com/vesord/HeavyStuffForOtherRepos/blob/master/SpaceSnake/snake.gif" width="200" height="200" />
 
 ### IRC server
 
