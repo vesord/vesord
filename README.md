@@ -7,8 +7,8 @@
 
 ## What I'm doing now
 - 🔭 Working on my Ecole42 studies
-- 🌱 Learning OpenGL, GLSL, Rust
-- :flashlight: Looking for a job as **Graphics programmer**
+- 🌱 Learning OpenGL, GLSL
+- 🔧 Working on making AAA titles looking good
 
 
 
