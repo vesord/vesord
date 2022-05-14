@@ -25,6 +25,30 @@ Final qualifying work: Microcontroller system for recording geoacoustic emission
 
 **Ecole 42** (in Russia school 21) student since 2020.
 
+## WORK EXPERIENCE
+
+#### Game tools 
+anim-graph, flow-graph, material-graph, level editor, scripts, quest-graph
+#### Game systems
+Animation -- skeleton animation, skining.
+
+Sound -- fmod.
+
+HUD -- scaleform.
+
+Render -- DLSS, translucensy.
+
+#### Issue resolving
+glitches (z-fight, texture streaming bugs), 
+
+crashes, 
+
+game logic (AI, pathfinding, navmesh), 
+
+input (switching keyboard-gamepad), 
+
+bad assets
+
 ## MOST RELATED PROJECTS
 
 ### Fluid simulator with gridding interpolator
