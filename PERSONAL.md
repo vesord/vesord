@@ -6,13 +6,13 @@
 
 Experienced in **OpenGL**, **GLSL**, low level programming.
 
-Most used languages in (no-engine) projects: **C**, **C++**, **Rust**.
+Most used languages: **C++**, **C**, **Rust**.
 
 **Bachelor** degree in computer engineering, average grade point 5.0.
 
 Ecole 42 (in Russia "21 School") student.
 
-Familiar with: **linear algebra**, **multithreading**, git, docker, network-programming, web-programming, bash, make, CMake.
+**OpenGL**, **linear algebra**, **multithreading**, git, docker, network-programming, web-programming, bash, make, CMake.
 
 [Portfolio](https://github.com/vesord)
 
@@ -71,16 +71,16 @@ In university I was in charge of faculty and then university student council.
 Also worked in department of Higher Mathematics in my university. 
 And was in charge of department of Informal education in youth non-profit organization (Russian Union of Youth, Kamchatka department).
 
-Main soft skills I’ve developed:
-- team leading,
+Main soft skills developed:
+- goal orientation,
 - project management,
 - public speaking,
 - time management,
-- goal orientation.
+- team leading.
 
 ## OVERALL
 
-I would like to **join a company** where I can apply my current skills and learn a lot. I am ready to make an effort to study new technologies in computer graphics and improve the existing knowledge. 
+I am open to all the opportunities where I can apply my current skills and learn more. I am ready to make an effort to study new technologies in computer graphics and improve the existing knowledge. 
 
 CG is very beautiful, modern and cool ;)
 
