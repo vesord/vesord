@@ -4,33 +4,31 @@
 
 ## OVERVIEW
 
-Experienced in **OpenGL**, **GLSL**, low level programming.
+Most used languages: **C++**, **C**, **Rust**, **asm**.
 
-Most used languages: **C++**, **C**, **Rust**.
+Experience in **OpenGL**, **GLSL**, low level programming.
 
 **Bachelor** degree in computer engineering, average grade point 5.0.
 
 Ecole 42 (in Russia "21 School") student.
 
-**OpenGL**, **linear algebra**, **multithreading**, git, docker, network-programming, web-programming, bash, make, CMake.
-
-[Portfolio](https://github.com/vesord)
-
 ## EDUCATION
+
+**Ecole 42** (in Russia school 21) student since 2020.
 
 **Bachelor** degree in computer engineering in Kamchatka State Technical University (2021)
 Average grade point is **5.0**.
 
 Final qualifying work: Microcontroller system for recording geoacoustic emission signals which made for Institute of cosmophysical research and radio wave propagation FEB RAS 
 
-**Ecole 42** (in Russia school 21) student since 2020.
-
 ## WORK EXPERIENCE
 
 #### Game tools 
 anim-graph, flow-graph, material-graph, level editor, scripts, quest-graph
 #### Game systems
-Animation -- skeleton animation, skining.
+Animation -- skeleton animation, skining, motions.
+
+AI -- navigation (recast)
 
 Sound -- fmod.
 
@@ -41,9 +39,11 @@ Render -- DLSS, translucensy.
 #### Issue resolving
 glitches (z-fight, texture streaming bugs), 
 
-crashes, 
+crashes, random crashes
 
-game logic (AI, pathfinding, navmesh), 
+AI bugs (pathfinding, navmesh (recast)),
+
+game logic (quests, game mechanics), 
 
 input (switching keyboard-gamepad), 
 
